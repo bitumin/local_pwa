@@ -1,0 +1,1 @@
+# Moodle local plugin pwa
